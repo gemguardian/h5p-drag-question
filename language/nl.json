@@ -213,23 +213,23 @@
     },
     {
       "label": "Grijpbaar voorvoegsel",
-      "default": "Grijpbaar {num} van {total}."
+      "default": "Grijpbaar {num} van {total}"
     },
     {
       "label": "Grijpbaar achtervoegsel",
-      "default": "Geplaatst in neerzetgebied {num}."
+      "default": "Geplaatst in neerzetgebied {num}"
     },
     {
       "label": "Neergebied voorvoegsel",
-      "default": "Neerzetgebied {num} van {total}."
+      "default": "Neerzetgebied {num} van {total}"
     },
     {
       "label": "Selectielabel geen neerzetgebied",
-      "default": "Geen neerzetgebied."
+      "default": "Geen neerzetgebied"
     },
     {
       "label": "Label voor de toon tip knop",
-      "default": "Toon tip."
+      "default": "Toon tip"
     },
     {
       "label": "Label voor de beschikbare tip",
